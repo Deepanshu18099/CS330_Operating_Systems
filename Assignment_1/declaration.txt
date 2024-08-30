@@ -1,0 +1,12 @@
+I have read the CSE department’s anti-cheating policy available at https://www.cse.
+iitk.ac.in/pages/AntiCheatingPolicy.html. I understand that plagiarism is a severe
+offense. I have solved this assignment myself without indulging in any plagiarism.
+If my submission is found to be plagiarized from the internet, fellow students, etc.,
+then strict action can be taken against me.
+Deepanshu
+210310
+
+References used -
+1. GeeksForGeeks-Implementation of APIs(Pipe, str family apis etc..)
+2. askubuntu - for common errors for using linux
+3. linux man pages for APIs and function
